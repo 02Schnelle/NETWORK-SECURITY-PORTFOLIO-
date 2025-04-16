@@ -37,6 +37,6 @@ This repository showcase my hands-on projects in network architecture , cyber se
 - ** Email** : fatolucien02@gmail.com
   > this portofolio is udapted regulary as i progress in certification and projects
   
-                        thanks fo visiting ! 
+                        thanks for visiting ! 
 
 
